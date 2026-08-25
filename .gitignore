@@ -1,0 +1,12 @@
+build/
+.metadata/
+.settings/
+.cproject
+.project
+.clangd
+sdkconfig.old
+sdkconfig.old.old
+managed_components/
+sdkconfig.old
+sdkconfig.old.old
+tool_set_config.json
